@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\QUANLYTIEMGIAY\QUANLYTIEMGIAY\bin\Debug\QuanLyTiemGiay.mdf
+C:\Users\Admin\source\repos\QUANLYTIEMGIAY\QUANLYTIEMGIAY\bin\Debug\QuanLyTiemGiay_log.ldf
+C:\Users\Admin\source\repos\QUANLYTIEMGIAY\QUANLYTIEMGIAY\bin\Debug\QUANLYTIEMGIAY.exe.config
+C:\Users\Admin\source\repos\QUANLYTIEMGIAY\QUANLYTIEMGIAY\bin\Debug\QUANLYTIEMGIAY.exe
+C:\Users\Admin\source\repos\QUANLYTIEMGIAY\QUANLYTIEMGIAY\bin\Debug\QUANLYTIEMGIAY.pdb
+C:\Users\Admin\source\repos\QUANLYTIEMGIAY\QUANLYTIEMGIAY\obj\Debug\QUANLYTIEMGIAY.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QUANLYTIEMGIAY\QUANLYTIEMGIAY\obj\Debug\QUANLYTIEMGIAY.Properties.Resources.resources
+C:\Users\Admin\source\repos\QUANLYTIEMGIAY\QUANLYTIEMGIAY\obj\Debug\QUANLYTIEMGIAY.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QUANLYTIEMGIAY\QUANLYTIEMGIAY\obj\Debug\QUANLYTIEMGIAY.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QUANLYTIEMGIAY\QUANLYTIEMGIAY\obj\Debug\QUANLYTIEMGIAY.exe
+C:\Users\Admin\source\repos\QUANLYTIEMGIAY\QUANLYTIEMGIAY\obj\Debug\QUANLYTIEMGIAY.pdb
